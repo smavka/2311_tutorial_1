@@ -1,2 +1,6 @@
 modify conflict.txt on master
+<<<<<<< HEAD
 modify conflict.txt on master
+=======
+modify conflict.txt on test_conflict
+>>>>>>> test_conflict
